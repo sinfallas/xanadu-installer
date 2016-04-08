@@ -1,0 +1,774 @@
+commit 9d1ba7ab28c09bbf1d9368cd2b3b440961f52557 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Apr 7 14:48:56 2016 -0430
+
+    * se coloca la version
+
+commit ba2dad5d22954e7214ca6f7928889c94aa65257b
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Apr 7 14:47:40 2016 -0430
+
+    * bugfix
+
+commit 3a799286c7fd271460381d6b7c9c09f4ebe64570
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Apr 7 14:46:33 2016 -0430
+
+    * se muestra el numero de la version de xanadu en el titulo de la primera pantalla
+
+commit 53e9b7a04c1a3dba024b774b1ec415401fcd3430 (tag: v0.4)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Apr 5 20:41:40 2016 -0430
+
+    * changelog
+
+commit 0fd611f4b32a92a911be3857454d19ec0af8bdfe
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Apr 5 20:41:23 2016 -0430
+
+    * bugfix
+
+commit a4f9b006652c59697db2edd6830aeb0ca5ad5065
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Mar 30 11:19:34 2016 -0430
+
+    * changelog
+
+commit 89e4fa8dcab807d72af230fce51bcbe5c2da540a
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Mar 30 11:19:22 2016 -0430
+
+    * bugfix
+
+commit 213fdf540252f62b2b92f45e9ea9ad8b82f51913
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Mar 29 22:21:59 2016 -0430
+
+    * changelog
+
+commit fd5d671003d440894527e9164dd7a5ae3e5060bc
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Mar 29 22:21:41 2016 -0430
+
+    * se corrigen errores de salida
+
+commit b07fa7680c6b1f82bdd36193b9a57f1f758ae394
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Mar 29 21:30:37 2016 -0430
+
+    * changelog
+
+commit 98562730f32237153a96162b5030e61953694fab
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Mar 29 21:30:01 2016 -0430
+
+    * se coloca la funcion para la clave del grub
+
+commit d7731543a2e322acbb4a84d62c131a1693a79b0f
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Mar 29 18:41:26 2016 -0430
+
+    * changelog
+
+commit 231a45f705bebef0572fe598571099c47fec0a1d
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Mar 29 18:41:07 2016 -0430
+
+    * se colocan nuevas opciones al cambiar el usuario
+
+commit bc025465623e599d45c3c5d67bdff6fd87530a6e
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Mar 29 17:42:52 2016 -0430
+
+    * changelog
+
+commit a85ee4b5f0a7b621d786344f7b01e950d712a774
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Mar 29 17:42:17 2016 -0430
+
+    * se aumenta el tiempo de timeout en wget
+
+commit b6adcf64844c4903a0fc7bf6b94e940c8be26521
+Author: jose perez <sinfallas@gmail.com>
+Date:   Mon Mar 28 20:33:39 2016 -0430
+
+    * changelog
+
+commit 3b27373a22c6b454d15d1a14ab6ef73da8926700
+Author: jose perez <sinfallas@gmail.com>
+Date:   Mon Mar 28 20:33:13 2016 -0430
+
+    * se corrige un error en el if que impide ejecutar el instalador si no hay internet
+
+commit 047658da2da836b44f21b7eda9faff64b143a581
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Mar 26 22:21:56 2016 -0430
+
+    * changelog
+
+commit 947052e88e313fb9dfd14ce3b6e14c1ef37b4fd1
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Mar 26 22:21:10 2016 -0430
+
+    * se activa dnsmasq y dnscrypt al final del instalador
+
+commit 727baececc2d2919ee708374378d4b9b0ac63fe4 (tag: v0.3.2)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Mar 4 18:55:48 2016 -0430
+
+    * changelog
+
+commit 1fc8d400ab6d2fe00a613abfb208aee387f4cef7
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Mar 4 18:55:37 2016 -0430
+
+    * bugfix
+
+commit 930ab1ed81df19fa6c180230fbbd3604dfed1fff
+Author: jose perez <sinfallas@gmail.com>
+Date:   Mon Feb 29 21:45:05 2016 -0430
+
+    * changelog
+
+commit 97b749b0d2f9fd8985277d87c45892bbbdc5a6dd
+Author: jose perez <sinfallas@gmail.com>
+Date:   Mon Feb 29 21:44:29 2016 -0430
+
+    * logo
+
+commit cccef721cb5bfcea6d3bb1898290f61670709ace
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Feb 26 21:15:24 2016 -0430
+
+    * changelog
+
+commit 9fb91298dc4e4c2bb72502e2c07e682d49715ee8
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Feb 26 21:15:00 2016 -0430
+
+    * se cambia una comprobacion de arquitectura
+
+commit 54463c38ca361e64dddbe27de7436d47b3b26ba9 (tag: v0.3.1)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 26 15:15:46 2015 -0430
+
+    * changelog
+
+commit 9ce0e535dde15461d6228c0adf917fa7e706c564
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 26 15:15:33 2015 -0430
+
+    * bugfix
+
+commit 43ff5875a356ea0ab137c44c72c9f489747cc691
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Dec 25 14:01:04 2015 -0430
+
+    * changelog
+
+commit 19d2ffcd2c7a291919a392445e53ebe2ba3598ef
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Dec 25 14:00:49 2015 -0430
+
+    * correccion de errores
+
+commit 9cd629bc2a4016707d4f91b824dcabc5c3ddaf33
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Dec 24 11:17:02 2015 -0430
+
+    * changelog
+
+commit 93c41c9e2ebd82e58e241d9d3e718ec5668b2ab2
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Dec 24 11:16:20 2015 -0430
+
+    * si se cambia el nombre de usuario se agrega a sudoers
+    * se agregan parametros al grub dependiendo de si son necesarios
+
+commit 613c60a139f262b06ce12475aa078a42f1be3936
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Dec 24 01:53:33 2015 -0430
+
+    * changelog
+
+commit 556a292fc0d303a5b604fd711af3526a2fc1477c
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Dec 24 01:52:58 2015 -0430
+
+    * ultimos cambios
+
+commit c8693af902a215eb1f35dfaa57d8fd9ce2fed4b4
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Dec 24 01:32:49 2015 -0430
+
+    * se corrigen errores al ejecutar gparted
+    * se elimina la barra de progreso al optimizar
+    * correcciones varias
+
+commit 84f818abcff4dccb67cadd576e1ab7212a078e28
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Dec 24 00:26:00 2015 -0430
+
+    * correccion de errores en rsync
+
+commit e928b3f2a6abf5acec43d3774e97cbb6c2d8bfd8
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Dec 23 23:43:48 2015 -0430
+
+    * bugfix
+
+commit 209f3ececcccd74c0f8d144eef379c7f94b0d4e2
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Dec 23 23:42:25 2015 -0430
+
+    * bugfix
+
+commit c8577d9d671acaaaaf19bc6d314598f757375e2c (tag: v0.3)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Dec 18 23:25:37 2015 -0430
+
+    * changelog
+
+commit 04a2ea4fcf46b9ba7a79dfe5b6084bb8d7eea0c1
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Dec 18 23:25:12 2015 -0430
+
+    * se agrega /home a la rutina de trim
+
+commit c3c0cebfd974134ffb6cc6893b1c358175e3a6bc
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Dec 18 21:22:28 2015 -0430
+
+    * changelog
+
+commit 2dc80cace267bb14ad21b1e81ee883805042c022
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Dec 18 21:21:44 2015 -0430
+
+    * se escribe un archivo de configuracion de x11 para tarjetas intel
+
+commit 8d9937caa60e49b2622e5f95f955d7217ccbf2ba
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Dec 17 23:51:06 2015 -0430
+
+    * changelog
+
+commit 2e116975d6db5434fe08786ba77aefaddf71ca69
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Dec 17 23:50:47 2015 -0430
+
+    * bugfix
+
+commit e0e4626619c1886e43db49ba25f68d10603ee77b
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Dec 17 22:44:41 2015 -0430
+
+    * changelog
+
+commit 03c607ba5bf0eacf448d58a9ab5391c1e969960a
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Dec 17 22:43:56 2015 -0430
+
+    * se agregan optimizaciones para xfs
+    * se activa trim y elevator=noop en caso de ser necesario
+
+commit ef9a0e77ab779836ee1d04018129ac7e764a9205
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Dec 17 20:27:01 2015 -0430
+
+    * changelog
+
+commit 7624e944a6040bfcc7c641d464dbfd4dd054ac26
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Dec 17 00:28:46 2015 -0430
+
+    * changelog
+
+commit 65be8a2b927b4001246f30509334cf6810cbb41a
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Dec 17 00:28:08 2015 -0430
+
+    * bugfix
+    * se modifica la implementacion de trap
+
+commit 666e17733b1a59e547ad8e7dc81ffdde587cd50f
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Dec 16 23:48:52 2015 -0430
+
+    * bugfix
+    * reduccion de tamaño
+
+commit 9f2254e4d95404d40bbc78c4cdcd1b5c3dd2fe63
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Dec 16 23:22:55 2015 -0430
+
+    * changelog
+
+commit 0b97ccab4a0c8ae04d414b27ba6f55ec61c22509
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Dec 16 23:22:21 2015 -0430
+
+    * se amplia la lista de excluidos de rsync
+
+commit ab12df9e2e953ac2b671891b716ad9e1d1908ddd
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Dec 16 23:06:56 2015 -0430
+
+    * changelog
+
+commit e62c690d930c65461e4162dd7153437ad856bd03
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Dec 16 22:59:57 2015 -0430
+
+    * se agregan optimizaciones para xfs
+    * se trasladan funciones desde variables hasta aqui
+    * se crean variables para yad
+    * se corrigen errores
+    * optimizaciones varias
+
+commit e2958f3ceb53e68391ee79f69b86aeb64bd5ba48
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 12 01:04:30 2015 -0430
+
+    * changelog
+
+commit 04cb4399b16f0cbf54682ac38434d04159487fae
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 12 01:04:21 2015 -0430
+
+    * bugfix
+
+commit d0f63eb1b72966eed7d973c913a0dadb6500695b
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 12 01:02:23 2015 -0430
+
+    * changelog
+
+commit 6b83860cfed9879ab38a39ed711ac82c6e86fab5
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 12 01:02:06 2015 -0430
+
+    * bugfix
+
+commit 7bf750a3bccb7f74c93103213b977696807ff0d0
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 12 00:15:12 2015 -0430
+
+    * changelog
+
+commit c907cb87df3df3f310f7d66dd9cfa3a97ae45a5d
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 12 00:11:55 2015 -0430
+
+    bugfix
+
+commit 6ab80e1ee3e764d3814803f18acfd132aa50ca35
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Dec 10 22:18:45 2015 -0430
+
+    * changelog
+
+commit 8147f6a916c37f55c54e51fdad7004e347ea92e6
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Dec 10 22:16:00 2015 -0430
+
+    bugfix
+
+commit b59ad363ad5c35738b894b4b49730af8086ccce4
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Dec 10 21:17:42 2015 -0430
+
+    * changelog
+
+commit 520b06922466b9ad447fba9fcecbe1329f93208a
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Dec 10 21:14:59 2015 -0430
+
+    optimizaciones
+
+commit 4fe0964ad9850cee590e7e81767b63d2529396eb (tag: v0.2)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Dec 6 19:41:45 2015 -0430
+
+    * changelog
+
+commit a7985a936deb3493ca1f40885d7acb9850c5d3b2
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Dec 6 19:41:13 2015 -0430
+
+    * cambios de seguridad
+
+commit 1eac9cd0ba270a53c338691e66d7cc06a40d4fd1
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Dec 6 18:04:04 2015 -0430
+
+    * changelog
+
+commit aa12369d37218b29d710db8bd487cd77cee650a9
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Dec 6 17:21:05 2015 -0430
+
+    * changelog
+
+commit 3a2df15b6dc9762e8d8315d97e668ba6b19cade6
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Dec 6 17:20:13 2015 -0430
+
+    * se completa la modificacion del instalador
+
+commit 89df1ccce47986f075ed2bbbb42367ec81a946f4
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 5 23:35:08 2015 -0430
+
+    * changelog
+
+commit 242fd0a581276d3bb120b67b0af8883dea7c1967
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 5 23:34:56 2015 -0430
+
+    * cambios varios
+
+commit 5b30a29bbecb7c627ee73aa3e530790e54296bd2
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 5 19:54:57 2015 -0430
+
+    * changelog
+
+commit 5368b157fe2cb1a4371e6005cfc7ecbb06e8239e
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 5 19:54:29 2015 -0430
+
+    * se corrige un error en la comprobacion del cpu
+    * se traslada la descarga del script al instalador
+
+commit d70519711f35a6e6fdc6756b925b1f7e3f5a19c3
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 5 18:49:48 2015 -0430
+
+    * changelog
+
+commit 390bf7a8ddd69e9a64f934d26e16f58302a79aa7
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 5 18:49:09 2015 -0430
+
+    * se eliminan las referencias en el codigo al nombre anterior
+
+commit 4069ae270aebe2d774677002115ad9ac3af12b39
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 5 18:38:29 2015 -0430
+
+    * changelog
+
+commit d24b4d1bf24809586f35c9dec429706554486286
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 5 18:38:12 2015 -0430
+
+    * cambio de nombres de archivos
+
+commit 82738a23d477405c62c8b6b813e0e483cc7eea70
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 5 18:34:56 2015 -0430
+
+    * changelog
+
+commit 2c84a9539b2fab8126588a48519d4cf94e4fb103
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 5 18:34:37 2015 -0430
+
+    * optimizaciones
+
+commit 51e703c15bb5df1a257524e296ed97de7bf26b7d
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 5 00:48:21 2015 -0430
+
+    * changelog
+
+commit 8660ba6b0b64911c3205e07e81e5bd2aff1957c4
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 5 00:48:09 2015 -0430
+
+    * bugfix
+
+commit ae2ac654bee5b3a1ae4d867a65f3dcff7bc9827e
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 5 00:32:41 2015 -0430
+
+    * changelog
+
+commit 289cf471b8a7da2c8deae9a4bea4a1bb49b88cfa
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 5 00:32:26 2015 -0430
+
+    * bugfix
+
+commit fc0d9aa372fb65046a95a3099a888bab1e71684a
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 5 00:27:53 2015 -0430
+
+    * changelog
+
+commit 04267b650eb56cb895ff0257b41b3675f20c9485
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 5 00:27:38 2015 -0430
+
+    * correccion de errores
+
+commit ff67ef17d8d34d67bd3b05cb042fb507754817b4
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 5 00:16:47 2015 -0430
+
+    * changelog
+
+commit 1a4ac7a429b0b872ac3d19f12808d7762da5a471
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 5 00:16:33 2015 -0430
+
+    * correccion de errores
+
+commit 892cadbe85a67eb2e2004e42de59c85ad6b8e444
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 5 00:02:48 2015 -0430
+
+    * changelog
+
+commit b71530879f90889f9bcf2c92f1197978e01d4de2
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 5 00:02:28 2015 -0430
+
+    * se elimina codigo innecesario
+
+commit a5c37eafa7195106886d4f4b390d562ccccba1fb
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Dec 4 23:45:57 2015 -0430
+
+    * changelog
+
+commit aeaa1f8858a8363544279de30d933470fc12852c
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Dec 4 23:45:43 2015 -0430
+
+    * se agrega la licencia
+
+commit 01e299a068538a9359ebec424bf897dc80811ebf
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Dec 4 23:37:30 2015 -0430
+
+    * changelog
+
+commit 649f65dea0c0303585eff1b47533cecb26f5bf06
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Dec 4 23:37:10 2015 -0430
+
+    * se elimina el archivo variables
+
+commit 59dafaa1a30cfc105cdb3a2473fdd25f68adddac
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Dec 4 23:34:50 2015 -0430
+
+    * changelog
+
+commit 41225a08428899b9367cb0a94d5e9a23feb350a5
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Dec 4 23:29:22 2015 -0430
+
+    * se elimina la dependencia del archivo variables
+
+commit 7bf21a3fcf015d3edbaeec0f31e9924e6af6efb2
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Dec 4 23:25:10 2015 -0430
+
+    * changelog
+
+commit 39652f83a6aa1130a900ea7b996a05d551ba48af
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Dec 4 23:24:29 2015 -0430
+
+    * se agrega comprobacion de root
+
+commit 52fd4b5016798a170e9e54c04bd72bd2de131d0a
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Dec 4 23:21:12 2015 -0430
+
+    * changelog
+
+commit 255ec79fb32f9cfcf08f8047ba3746aee9a502ee
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Dec 4 23:19:41 2015 -0430
+
+    * se elimina la dependencia del archivo variables
+
+commit c50602f926df277586b8c457ef3f964b3b009ea5
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Dec 4 22:38:03 2015 -0430
+
+    * changelog
+
+commit 4084162fe1eb0ac8306a2bf8f8a23ab49d6d835d
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Dec 4 22:36:27 2015 -0430
+
+    * correccion de errores
+    * se coloca una comprobacion para seleccionar el tipo de particionamiento
+
+commit 575a10d361eb76cebbe542fed8dc7eb076e09139
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Dec 4 21:37:35 2015 -0430
+
+    * changelog
+
+commit f6f050e633ed8a9c44ec3b2e905141ce907e0381
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Dec 4 21:36:56 2015 -0430
+
+    * reestructuracion
+
+commit ad3f1fbb4c25c870640d4499169c89ff85feda55
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Dec 1 22:01:00 2015 -0430
+
+    * changelog
+
+commit 3290b3456eafa3fd4b899e6ce8b7c009ff3f91ab
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Dec 1 22:00:46 2015 -0430
+
+    * mas optimizaciones
+
+commit aa58935e3d91939c4877e1f888695bc9c3772a1d
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Dec 1 21:50:13 2015 -0430
+
+    * changelog
+
+commit c9c52a6156989905947493ed9d665278839e5d8f
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Dec 1 21:50:01 2015 -0430
+
+    * mas optimizaciones
+
+commit e0bfdceac64f9b372a917b8a6b0249a873181b10
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Dec 1 21:40:53 2015 -0430
+
+    * changelog
+
+commit 6cd8c87c0c630f3652c2a5109ce098768a375664
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Dec 1 21:40:33 2015 -0430
+
+    * optimizaciones
+
+commit cfbe3a9c778ae9e4477c44d8c5087d1e8678159f
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Dec 1 21:08:29 2015 -0430
+
+    * changelog
+
+commit c74aefadf48e5c57d798d83e719a12586dfa8242
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Dec 1 21:07:58 2015 -0430
+
+    * se eliminan todas las referencias al pre y post instalador
+
+commit 718348821256d775f6e33111104b37884f72fb88
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Dec 1 20:39:49 2015 -0430
+
+    * changelog
+
+commit b4f49f3d4ee37a8677439144e0943fd0b2aebde1
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Dec 1 20:39:19 2015 -0430
+
+    * se agrega la rutina para descargar la ultima version del navegador desde github
+
+commit f322340978b17630d18666104f85f7c6d90756e9
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Dec 1 20:04:08 2015 -0430
+
+    * changelog
+
+commit 906bfa7bbe7f2ae6e05fadcd417dbfe0c6609f76
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Dec 1 20:03:40 2015 -0430
+
+    * ultimos cambios
+
+commit 7227c4758b59da3de7ea113d3d2b3f973aee1e2e
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Dec 1 19:39:25 2015 -0430
+
+    * changelog
+
+commit e8107b41f455e24a8460fa3314e15a17951d2905
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Dec 1 19:39:07 2015 -0430
+
+    * se fucionan todos los archivos
+
+commit 18bf55930a5c69c74689fde3a942e2b2484ca6be
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Nov 29 12:50:07 2015 -0430
+
+    * changelog
+
+commit 9b4af2f071852b2d06c745a51872fb73da392c11
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Nov 29 12:49:51 2015 -0430
+
+    * se cambia el texto del ultimo menu
+
+commit 91cf628afda2bf5bbbb36b2995a16e6320468d8a
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Nov 29 12:37:16 2015 -0430
+
+    * changelog
+
+commit 7a13ea8bad73833e50e0b49354aca4ca7d932214
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Nov 29 12:36:58 2015 -0430
+
+    * se colocan barras de progreso
+    * se colocan advertencias
+
+commit 37d663ea75f7ac1541cedf3ac717c569373cc7d9
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Nov 12 20:42:44 2015 -0430
+
+    * changelog
+
+commit 987b6eb215bd49e2a978082a8f70674360e4f640
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Nov 12 20:42:33 2015 -0430
+
+    * zenodo
+
+commit 036ba9f163e069004d3046ffcc02401eeaecd106 (tag: v0.1)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Nov 12 20:23:22 2015 -0430
+
+    * travis final
+
+commit b89657839703d0e180a1f83b370de369f637d97b
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Nov 12 20:21:30 2015 -0430
+
+    * travis
+
+commit 99cfcc699dee873615ca1302a428fbca88192d54
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Nov 12 20:02:08 2015 -0430
+
+    * changelog
+
+commit cf5318f53aa8843ed390d3969956a30aba9a5996
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Nov 12 20:01:45 2015 -0430
+
+    * primer commit
+
+commit 3a9e525e9569d17af1b733e9a9aab607dbbe8e08
+Author: Jose Perez <sinfallas@users.noreply.github.com>
+Date:   Thu Nov 12 19:59:25 2015 -0430
+
+    Initial commit
