@@ -51,6 +51,8 @@ else
 	cpu3="<span color='#00b300'>$cpu2</span>"
 fi
 rm -f $parti
+rm -f $rsync_excludes
+rm -f $home_boot_excludes
 exec 2>"$error_log"
 
 function advert () {
@@ -715,7 +717,7 @@ if ! [[ -f "$parti" ]]; then
 fi
 
 if [[ -f "$parti" ]]; then
-	boot_dev=$(blkid -c /dev/null | grep "boot" | awk '{print $1}' | sed 's/.$//g')
+	boot_dev=$(blkid -c /dev/null | grep -i "boot" | awk '{print $1}' | sed 's/.$//g')
 else
 	if [[ $sep_boot = "yes" ]]; then
 		choose_boot
